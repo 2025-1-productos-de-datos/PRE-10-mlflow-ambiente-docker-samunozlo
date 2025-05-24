@@ -4,7 +4,7 @@ resultados de las corridas en un solo lugar (disco de red o
 almacenamiento en la nube).
 
 $ docker build -t jdvelasq/mlflow:example .
-
+docker build -t samunozlo/mlflow:example .
 
 
 Cree un disco o folder externo para ejecutar el experimento.
